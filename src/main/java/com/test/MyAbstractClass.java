@@ -1,4 +1,4 @@
-package com.vijay;
+package com.test;
 
 public abstract class MyAbstractClass {
 
